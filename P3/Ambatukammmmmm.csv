@@ -1,0 +1,11 @@
+,first_name,last_name,age,Gender,State,Test1,Test2
+0,Jason,Miller,42.0,Male,Perak,78.0,90.0
+1,Molly,Jacobson,52.0,Female,Johor,75.0,45.0
+2,Joseph,,,Male,Penang,31.0,90.0
+3,Jessica,Linsey,24.0,Female,Johor,72.375,62.0
+4,Amy,Cooze,73.0,,Kedah,72.375,35.0
+5,Jackson,,21.0,Male,Penang,85.0,100.0
+6,Amy,,80.0,Female,Perak,60.0,
+7,Monica,Lieber,20.0,Female,Kedah,70.0,85.0
+8,Bill,Gates,78.0,Male,Perak,100.0,100.0
+9,Steve ,Billy,50.0,Male,Penang,80.0,99.0
